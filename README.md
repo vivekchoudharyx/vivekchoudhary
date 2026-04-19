@@ -22,10 +22,12 @@
 
 ## 🛠️ Tech Stack
 
-* 💻 Languages: C, Python
-* ⚙️ Tools: Git, VS Code
-* 📊 Learning: Machine Learning, Data Analysis
-
+<p align="center">
+  <img src="https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visual-studio-code" />
+</p>
 ---
 
 ## 🚀 Projects
