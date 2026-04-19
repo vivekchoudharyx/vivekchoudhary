@@ -1,13 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Vivek+Choudhary;AI+Engineer+in+Progress;Building+Real+Projects;Learning+Everyday" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="0"/> 
 </p>
 
-<h1 align="center">Hi 👋, I'm Vivek</h1>
-<h3 align="center">🚀 AIML Student | Future AI Engineer</h3>
-
 <p align="center">
-💻 Learning C, Python & Git <br>
-🔥 Building real-world projects step by step
+  <img src="https://media.giphy.com/media/3o7TKsQ8UQyPZ0u6eY/giphy.gif" width="100%"/>
 </p>
 ---
 
