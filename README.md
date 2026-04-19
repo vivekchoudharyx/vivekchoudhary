@@ -32,9 +32,11 @@
 
 ## 🚀 Projects
 
-* 🛒 Online Marketplace (in progress)
-* 🧮 C Programming Projects
-* 📊 Mini AI/ML Models (coming soon)
+🔹 Online Marketplace (Building)  
+🔹 C Programming Practice Projects  
+🔹 AI/ML Mini Models (Coming Soon)  
+
+👉 More projects coming soon...
 
 ---
 
