@@ -12,53 +12,37 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&color=00FF00&center=true&vCenter=true&width=700&lines=AI+ENGINEER+IN+PROGRESS;ENTERING+THE+MATRIX...;LOADING+PROJECTS..." />
 </p>
 
-## 🧠 About Me
+## 🧠 SYSTEM CORE
 
-* 🎓 B.Tech AIML student
-* 🌱 Learning: Data Structures, AI/ML
-* 🎯 Goal: Become a top AI Engineer
-* ⚡ Focused on consistency & growth
+```bash
+> user: vivek
+> status: ONLINE
+> learning: AI / ML
+> mission: BUILD & GROW
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ STEP 4: Neon Green Tech Stack
+
+```md id="qqbgys"
+## ⚙️ TECH STACK
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c" />
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF00"/>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF00"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF00"/>
+  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=00FF00"/>
 </p>
----
 
-## 🚀 Projects
-
-🔹 Online Marketplace (Building)  
-🔹 C Programming Practice Projects  
-🔹 AI/ML Mini Models (Coming Soon)  
-
-👉 More projects coming soon...
-
----
-
-## 📈 GitHub Stats
+## 📊 SYSTEM DATA
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivekchoudharyx&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekchoudharyx&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vivekchoudharyx&show_icons=true&theme=chartreuse-dark" />
 </p>
----
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vivekchoudharyx&label=Profile%20views&color=blue&style=flat" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekchoudharyx&theme=chartreuse-dark" />
 </p>
 
-
-
-## 🔥 Let's Connect
-
-* LinkedIn: (add later)
-* Email: (optional)
-
----
 
 ⭐ “Consistency beats talent when talent doesn’t work hard”
