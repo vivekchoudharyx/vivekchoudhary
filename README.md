@@ -45,6 +45,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekchoudharyx&theme=tokyonight" />
 </p>
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vivekchoudharyx&label=Profile%20views&color=blue&style=flat" />
+</p>
+
+
 
 ## 🔥 Let's Connect
 
