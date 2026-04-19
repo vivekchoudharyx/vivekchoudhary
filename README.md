@@ -2,12 +2,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Vivek+Choudhary;AI+Engineer+in+Progress;Building+Real+Projects;Learning+Everyday" />
 </p>
 
-# Hi, I'm Vivek 👋
+<h1 align="center">Hi 👋, I'm Vivek</h1>
+<h3 align="center">🚀 AIML Student | Future AI Engineer</h3>
 
-🚀 AIML Student | Future AI Engineer
-💻 Currently learning C, Python, and Git
+<p align="center">
+💻 Learning C, Python & Git <br>
 🔥 Building real-world projects step by step
-
+</p>
 ---
 
 ## 🧠 About Me
