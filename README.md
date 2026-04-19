@@ -33,7 +33,7 @@
 
 ## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=vivekchoudharyx\&show_icons=true)
 
 ---
 
